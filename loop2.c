@@ -1,4 +1,6 @@
-main()
+#include <stdio.h>
+#include <stdlib.h>
+int main()
 {
 
     int a,b,n,sum,an,i;
@@ -25,3 +27,9 @@ main()
 
     printf("\n Jumlah = %3d", sum);
 }
+
+
+
+
+
+
